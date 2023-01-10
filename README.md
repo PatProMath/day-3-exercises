@@ -22,7 +22,7 @@ For this reason, we generally skip new century years when doling out that extra 
 At the same time, should the new century year be EVENLY divisible by 400, we make an exception and call it a leap year too! Like the year 2000 or the year, 2400 after.
 The leap years (counting from end of the last millenium) : 2000, 2004, 2008, 2012, 2016, 2020, 2024, ..., 2096, 2104, ..., 2196, 2204, ..., 2296, 2304, ..., 2396, 2400, 2404, ...
 
-![leapyearlogic](https://user-images.githubusercontent.com/92851998/211305097-dae445e9-4485-427c-b532-1ea2a932c15d.jpg)
+![leapyearlogic](https://user-images.githubusercontent.com/92851998/211621359-b120539a-316b-46f1-a8f6-df944e2752ef.jpg)
 
 ## Pizza Order
 
